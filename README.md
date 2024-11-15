@@ -1,6 +1,7 @@
 # DJS08 Project Brief: React Router 
 
-🎥 INSERT LOOM PRESENTATION LINK: [Here]
+🎥 INSERT LOOM PRESENTATION LINK: [https://www.loom.com/share/dd71bac504e3408ea94066ff9a08f400?sid=fa6521ef-ed57-446b-8498-9ba192e06dd2]
+
 
 After cloning the repo, run `npm install` to install the dependencies 
 
@@ -38,3 +39,4 @@ For your recorded presentation, you will be discussing key concepts related to R
 Be prepared to provide code snippets and real-world application examples from your Van Life Project to support your explanations.
 
 Make sure to submit your project to the DJS08 Project Tab on the LMS. Include a link to your Loom Presentation in your README.
+loom video [https://www.loom.com/share/dd71bac504e3408ea94066ff9a08f400?sid=fa6521ef-ed57-446b-8498-9ba192e06dd2]
